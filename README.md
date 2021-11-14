@@ -1,3 +1,3 @@
 # IOT-PROJECT-WEATHER-DASHBOARD
-The objective is of this project was to developed a system that can provide the current status of weather condition in the city provided by the user. Arduino, NodeRed, MQQT used for this project.This is our WEATHER-DASHBOARD.
+The objective is of this project was to develop a system that can provide the current status of weather condition in the city provided by the user. There are two kinds of methods for provide location that user want. Those are city, Country and longitude, latitude. Those data can provide using dashboard or serial monitor. Weather conditions give to user from using graphs and those graphs will be update every 30S. And also, there is a warning system. Arduino, Node Red, MQQT used for this project.This is our WEATHER-DASHBOARD.
 ![image](https://user-images.githubusercontent.com/68496221/141655035-1f39b8c5-4dc3-40a7-aabd-acde44c31f36.png)
